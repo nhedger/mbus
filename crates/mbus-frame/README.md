@@ -79,6 +79,3 @@ Byte layout (1 byte total)
 
 This crate provides data structures representing M-Bus link-layer frames,
 but intentionally excludes application-layer fields and parsing logic.
-
-For a frame parser, check the [mbus-parser](./mbus-parser)
-crate in this workspace.
